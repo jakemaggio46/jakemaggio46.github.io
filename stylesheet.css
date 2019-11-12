@@ -1,0 +1,8 @@
+h1 {color: black; font-size: 22pt;}
+
+Body {background: red;
+color: black;
+font-size: 14pt;
+font-family: Lato}
+
+a:hover { color: blue }
